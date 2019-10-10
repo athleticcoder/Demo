@@ -535,9 +535,16 @@ footer .social-links div{
     cursor: pointer;
 }
 
+@media only screen and (max-width: 1024px) {
+    .heroContent{
+        top: 20%;
+    }
+  }
 
-
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 770px) {
+    .heroContent{
+        top: 20%;
+    }
     .heroContent h1{
         font-size: 40px;
         font-weight: 300;
@@ -547,6 +554,9 @@ footer .social-links div{
   }
 
 @media only screen and (max-width: 670px) {
+    .heroContent{
+        top: 30%;
+    }
     .heroContent form{
         display: -webkit-box;
         display: -ms-flexbox;
@@ -580,6 +590,4 @@ footer .social-links div{
     .section-4 .nav-tabs .nav-item .nav-link{
         padding: 10px !important; 
     }
-
-
 }
