@@ -11,7 +11,7 @@ scroll-behavior: smooth;
 header#hero{
     width: 100%;
     min-height: 43.43rem;
-    background-image: url('./images/heroImg.jpg');
+    background-image: url('https://athleticcoder.github.io/Demo/images/heroImg.jpg');
     background-size: cover;
 }
 
@@ -331,7 +331,7 @@ header#hero{
     width: 50px;
     height: 50px;
     border-radius: 50%;
-    background-image: url('./images/userImg.jpg');
+    background-image: url('https://athleticcoder.github.io/Demo/images/userImg.jpg');
     background-size: cover;
 }
 
@@ -356,7 +356,7 @@ header#hero{
 section.section-3{
     width: 100%;
     min-height: 43.43rem;
-    background-image: url('/images//section3Img.jpg');
+    background-image: url('https://athleticcoder.github.io/Demo/images/section3Img.jpg');
     background-size: cover;
 }
 
